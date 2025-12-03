@@ -1,0 +1,15 @@
+code {
+  font-family: 'Vazir', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Vazir', sans-serif;
+  background-color: #f5f5f5;
+}
+
+p, span, h1, h2, h3, h4, h5, h6 {
+  pointer-events: none;
+}

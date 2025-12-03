@@ -1,0 +1,17 @@
+venv
+node_modules
+**/migrations/*
+**/__pycache__/
+back-end/mazzeh/db.sqlite3
+!**/migrations/__init__.py
+.vscode
+env
+**/.env
+**/migrations/*
+**/__pycache__/
+**/media/*
+back-end/mazzeh/db.sqlite3
+!**/migrations/__init__.py
+.scannerwork/*
+deploy/postgres-data/*
+back-end/mazzeh/.coverage
